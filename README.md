@@ -1,2 +1,2 @@
 # test
-![img](http://github.com/naomiyang/test/new/master/1.jpg)
+![img](https://github.com/naomiyang/test/blob/master/1.jpg）
